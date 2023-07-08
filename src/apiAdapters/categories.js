@@ -1,4 +1,4 @@
-const BASE_URL = 'https://grace-shopper-wiwo.onrender.com/api';
+const BASE_URL = 'https://makes-scents-front.onrender.com';
 
 export async function getAllCategories() {
   try {
