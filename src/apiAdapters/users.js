@@ -1,4 +1,4 @@
-let BASE_URL = 'https://makes-scents-front.onrender.com';
+let BASE_URL = 'https://makes-scents-front.onrender.com/api';
 
 export const registerNewUser = async (name, email, username, password) => {
   try {

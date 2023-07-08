@@ -1,4 +1,4 @@
-let BASE_URL = 'https://makes-scents-front.onrender.com';
+let BASE_URL = 'https://makes-scents-front.onrender.com/api';
 
 export async function getActiveCart(token) {
   try {

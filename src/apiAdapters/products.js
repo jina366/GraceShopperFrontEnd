@@ -1,4 +1,4 @@
-const BASE_URL = 'https://makes-scents-front.onrender.com';
+const BASE_URL = 'https://makes-scents-front.onrender.com/api';
 
 export async function getAllProducts() {
   try {
